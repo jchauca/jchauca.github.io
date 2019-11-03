@@ -1,0 +1,45 @@
+
+img{
+	max-width: 100%;
+}
+.quitar-float{
+	float: none;
+}
+.espacio-arriba{
+	margin-top: 100px;
+}
+.jomolhari{
+	font-family: 'Jomolhari', serif;
+}
+.grande{
+	font-size: 3em;
+}
+.pequeño{
+	font-size: 1em;
+}
+.se-gris{
+	background-color: #eee;
+}
+.padding-largo{
+	padding: 5px 10px;
+}
+.grande{
+	font-size: 4em;
+}
+.no-lista li{
+	list-style-type: none;
+}
+.no-lista{
+	margin: 0px;
+	padding: 0px;
+}
+.inline-block{
+	float: none;
+	display: inline-block;
+}
+.mediano{
+	font-size: 1.5em;
+}
+.espacio-derecha{
+	margin-right: 3em;
+}
